@@ -26,3 +26,34 @@ form {
     padding: 1rem;
     width: 4rem; 
 }
+.botonResultado {
+    background-color: rgb(0, 0, 0);
+    color: azure;
+    font-size: 2rem;
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    margin: 1rem;
+    padding: 1rem;
+    width: 4rem; 
+}
+
+.botonDelete{
+    background-color: rgb(202, 92, 92);
+    color: azure;
+    font-size: 2rem;
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    margin: 1rem;
+    padding: 1rem;
+    width: 4rem; 
+}
+.botonOperador{
+    background-color: rgb(70, 101, 187);
+    color: azure;
+    font-size: 2rem;
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    margin: 1rem;
+    padding: 1rem;
+    width: 4rem; 
+}
