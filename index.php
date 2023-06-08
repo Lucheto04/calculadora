@@ -1,5 +1,5 @@
 <?php
-                session_start();
+session_start();
 $deleteAll = $_POST['deleteAll'];
 $delete1 = $_POST['delete1'];
 
