@@ -12,4 +12,5 @@ Para usarlo solo debes darle click a los botones de los numero y operadores, una
 
 Si haces la operación 0/0 se cae la pagina.
 Si solo le das click a un operador y luego al igual se cae la pagina.
+El boton "." no funciona.
 
